@@ -25,7 +25,12 @@
 - 🧠 Exploring **Large Language Models** and their applications
 - 📈 Time series analysis and predictive modeling
 
-## 🛠️ Tech Stack
+## � Pet Projects
+
+### [📖 I Am Reader](https://iamreader.com.ua/)
+A data visualization tool for Goodreads users. Analyze your reading habits over the years, customize charts, and download personalized reports.
+
+## �🛠️ Tech Stack
 
 <div align="center">
 
