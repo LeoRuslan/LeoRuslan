@@ -7,6 +7,7 @@
 ### Data Scientist | Energy Forecasting | ML Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-palchuk-1164b4168/)
+[![Web CV](https://img.shields.io/badge/Web_CV-000000?style=for-the-badge&logo=github&logoColor=white)](https://leoruslan.github.io/)
 
 </div>
 
